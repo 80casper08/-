@@ -22,7 +22,7 @@ class QuizState(StatesGroup):
 questions = [
     {
         "text": "1) Яких елементів не вистачає на платі KeyPad?",
-        "image": "https://raw.githubusercontent.com/80casper08/Hardtest2.0/main/images/keypad.jpg",
+        "image": "https://raw.githubusercontent.com/80casper08/Hardtest2.0/main/images/1.jpg",
         "options": [
             ("Холдер '-'", True),
             ("Холдер '+'", True),
@@ -32,7 +32,7 @@ questions = [
     },
     {
         "text": "2) Яких елементів не вистачає на платі StreetSiren?",
-        "image": "https://raw.githubusercontent.com/80casper08/Hardtest2.0/main/images/streetsiren.jpg",
+        "image": "https://raw.githubusercontent.com/80casper08/Hardtest2.0/main/images/2.jpg",
         "options": [
             ("Антена", True),
             ("Кнопка", True),
